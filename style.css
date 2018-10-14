@@ -16,6 +16,7 @@ p {
 h1, h2, h3 {
     font-weight: 400;
     margin-bottom: 0px;
+    color: red;
 }
 
 h2 {
